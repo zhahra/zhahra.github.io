@@ -18,7 +18,7 @@ body{
   background-color: transparent;
   border: 2px solid #e74c3c;
   border-radius: 0.6em;
-  color: #e74c3c;
+  color: transparent;
   cursor: pointer;
   display: flex;
   align-self: center;
