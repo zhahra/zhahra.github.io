@@ -1,0 +1,30 @@
+{
+	margin: 25px 50px 75px 100px ;
+	padding-top: 25px ;
+	font-family: verdana
+}
+header {
+	background-image: url(background.jpeg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center
+}
+ul {
+	list-style: none;
+	float: right;
+	margin-top: 25px
+}
+ul li {
+	display: inline-block;
+}
+ul li a {
+	text-decoration: none;
+	color: white
+	padding: 10px 40px;
+	border : 1px solid transparent;
+	transition : 6s;
+}
+u li a:hover {
+	background-color: black;
+	color: white
+}
