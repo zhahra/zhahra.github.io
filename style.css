@@ -42,15 +42,14 @@ body{
 .third:hover {
   box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
 }
- 
- h2 {
-  text-align: center;
-  color: white;
- }
-
+.title{
+	position: fixed;
+	top:30%;
+	left:40%;
 }
-footer {
-   font-family: arial;
-background-color: gray;
+.title h1 {
 	color: white;
+	font-size:40px;
+	text-decoration: underline;
 }
+
