@@ -6,6 +6,15 @@ body{
      font-family: Bradley Hand ITC;
  }
 
+div{
+     width: 80px;
+     height: 80px;
+     float: left;
+     margin: 20px;
+     text-align: center;
+   }
+   .tiga { border: 10px dashed green; }
+
 .btn {
   box-sizing: border-box;
   -webkit-appearance: none;
