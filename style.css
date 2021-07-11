@@ -50,10 +50,10 @@ body{
 }
 
 .title {
-	margin: 50px;
-	position: fixed;
-	top: 30%;
-	left: 40%;
+	position: absolute;
+	width: 600px;
+	margin: 12% 30%;
+	text-align: center;
 }
 .title h1 {
 	font-color: white;
