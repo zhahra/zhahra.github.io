@@ -15,6 +15,8 @@ body{
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
+	margin: 50px;
+  padding: 2em 4em;
   background-color: transparent;
   border: 2px solid #e74c3c;
   border-radius: 0.6em;
@@ -30,7 +32,7 @@ body{
   text-decoration: none;
   text-align: center;
   text-transform: uppercase;
-  font-family: Noto Serif;
+  font-family: Comic Sans MS;
   font-weight: 700;
 }
 .btn:hover, .btn:focus {
