@@ -64,4 +64,30 @@ body{
 	margin: 12% 30%;
 	text-align: center;
 }
+		.container {
+			max-width: 1200px;
+			margin: auto;
+			background-color: white;
+			overflow: auto;
+		}
+		.gallery {
+			margin: 5px;
+			border:1px solid black;
+			float: left;
+			width: 390px;
+		}
+		.gallery img {
+			width: 100%;
+			height: auto;
+			display: inline-block;
+}
+footer {
+			padding: 20px;
+			font-size: 15px;
+			font-weight: bold;
+			text-align: center;
+			background-color: white;
+			color: black;
+			font-family: Arial;
+			letter-spacing: 1px;
 
