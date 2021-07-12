@@ -85,3 +85,13 @@ body{
 	font-family: Arial;
 	letter-spacing: 1px;
 }
+.title h2 {
+	padding :10px;
+	font-color: black;
+	font-size: 40px;
+	text-decoration: underline;
+	position: absolute;
+	width: 600px;
+	margin: 12% 30%;
+	text-align: center;
+}
